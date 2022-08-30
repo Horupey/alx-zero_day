@@ -1,1 +1,1 @@
-a not empty read me
+coding is cool
